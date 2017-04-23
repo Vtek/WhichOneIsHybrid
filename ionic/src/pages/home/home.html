@@ -1,0 +1,16 @@
+<ion-header>
+    <ion-navbar class="white">
+        <ion-title>Best games ever !</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+    <ion-list no-lines>
+        <button ion-item *ngFor="let item of items">
+      {{ item }}
+    </button>
+    </ion-list>
+    <ion-fab bottom right>
+        <button ion-fab><ion-icon name="add"></ion-icon></button>
+    </ion-fab>
+</ion-content>

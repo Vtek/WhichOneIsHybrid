@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:25.3.1] /Users/Sylvain/.android/build-cache/9efbb8b0140bc7f59449093702d562d47d3e1354/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Sylvain/.android/build-cache/c92a077f7551c45e3ce5dd5333e551f83ae4b083/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Sylvain/.android/build-cache/a2623ff4414ed6e57dc198286a1f57e9938690b5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Sylvain/.android/build-cache/24c5f7d7ce3faebe8baf08a0bc8def2f7bb18b77/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/Sylvain/.android/build-cache/e3abb6ed22c0e7e6a6e9ae4cc0fb03b020c6355f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Sylvain/.android/build-cache/153f330fe57c6718d19de24f7d5f1766aac7375f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Sylvain/.android/build-cache/60b682574b95aa74b6b8a86d84e78c5c1d61e6c9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Sylvain/.android/build-cache/0a867cf490980fec1248036f3251af092bf52978/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Sylvain/.android/build-cache/c8504ebb6e136a93e8b0a307e8510712fdcb997a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Sylvain/.android/build-cache/281e2d578dc19ce68dc734ef2dbb648f3a7af57d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Sylvain/.android/build-cache/573cf12cba8cbc3f3464aa56b0188a4a5d8a9697/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.sylvain.myapplication.ItemListActivity
+ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:13:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.sylvain.myapplication.ItemDetailActivity
+ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:24:13-54
+	android:parentActivityName
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:25:13-59
+	android:theme
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:23:13-47
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:27:13-29:86
+	android:value
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:29:17-83
+	android:name
+		ADDED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml:28:17-63
+uses-sdk
+INJECTED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/Sylvain/.android/build-cache/9efbb8b0140bc7f59449093702d562d47d3e1354/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Sylvain/.android/build-cache/c92a077f7551c45e3ce5dd5333e551f83ae4b083/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Sylvain/.android/build-cache/a2623ff4414ed6e57dc198286a1f57e9938690b5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Sylvain/.android/build-cache/24c5f7d7ce3faebe8baf08a0bc8def2f7bb18b77/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Sylvain/.android/build-cache/32c34fe71bdd37f4915d2c57ae0ee5fe37909502/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/Sylvain/.android/build-cache/e3abb6ed22c0e7e6a6e9ae4cc0fb03b020c6355f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Sylvain/.android/build-cache/153f330fe57c6718d19de24f7d5f1766aac7375f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Sylvain/.android/build-cache/60b682574b95aa74b6b8a86d84e78c5c1d61e6c9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Sylvain/.android/build-cache/0a867cf490980fec1248036f3251af092bf52978/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Sylvain/.android/build-cache/c8504ebb6e136a93e8b0a307e8510712fdcb997a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Sylvain/.android/build-cache/281e2d578dc19ce68dc734ef2dbb648f3a7af57d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Sylvain/.android/build-cache/573cf12cba8cbc3f3464aa56b0188a4a5d8a9697/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/Sylvain/.android/build-cache/9efbb8b0140bc7f59449093702d562d47d3e1354/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Sylvain/AndroidStudioProjects/MyApplication2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/Sylvain/.android/build-cache/9efbb8b0140bc7f59449093702d562d47d3e1354/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Sylvain/.android/build-cache/c92a077f7551c45e3ce5dd5333e551f83ae4b083/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Sylvain/.android/build-cache/a2623ff4414ed6e57dc198286a1f57e9938690b5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Sylvain/.android/build-cache/24c5f7d7ce3faebe8baf08a0bc8def2f7bb18b77/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Sylvain/.android/build-cache/32c34fe71bdd37f4915d2c57ae0ee5fe37909502/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/Sylvain/.android/build-cache/e3abb6ed22c0e7e6a6e9ae4cc0fb03b020c6355f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Sylvain/.android/build-cache/153f330fe57c6718d19de24f7d5f1766aac7375f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Sylvain/.android/build-cache/60b682574b95aa74b6b8a86d84e78c5c1d61e6c9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Sylvain/.android/build-cache/0a867cf490980fec1248036f3251af092bf52978/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Sylvain/.android/build-cache/c8504ebb6e136a93e8b0a307e8510712fdcb997a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Sylvain/.android/build-cache/281e2d578dc19ce68dc734ef2dbb648f3a7af57d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Sylvain/.android/build-cache/573cf12cba8cbc3f3464aa56b0188a4a5d8a9697/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/Sylvain/.android/build-cache/9efbb8b0140bc7f59449093702d562d47d3e1354/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/Sylvain/.android/build-cache/9efbb8b0140bc7f59449093702d562d47d3e1354/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Sylvain/.android/build-cache/9efbb8b0140bc7f59449093702d562d47d3e1354/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Sylvain/.android/build-cache/9efbb8b0140bc7f59449093702d562d47d3e1354/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

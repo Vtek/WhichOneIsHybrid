@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/153f330fe57c6718d19de24f7d5f1766aac7375f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad79795ff34e59ef4a0023392016ba1f917432f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/60b682574b95aa74b6b8a86d84e78c5c1d61e6c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbef9495a820047101e2abbdf408c6083e1fb7e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/281e2d578dc19ce68dc734ef2dbb648f3a7af57d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97f7cb748377f012a1fc1448a89a6519d3cb96a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/a2623ff4414ed6e57dc198286a1f57e9938690b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bfbaf9f3f74461f76a5222f752e22ef695bf732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/24c5f7d7ce3faebe8baf08a0bc8def2f7bb18b77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0dccdb021a5cf28f232bcad380841bc0f4130f14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64e9730eb1bcb291509b6ebe37fce5eb31e2d4b">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0eb7656198d41da27d6f69f95d29413afe792227/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/c92a077f7551c45e3ce5dd5333e551f83ae4b083/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_763eeffd9a315694b98c895ace6ee242f7716e66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/c8504ebb6e136a93e8b0a307e8510712fdcb997a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02626e2800e91eabfbe0357cc72fe22e34647c01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_adb595ed4184eccc8da81fd35b56af74993a1b2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/32c34fe71bdd37f4915d2c57ae0ee5fe37909502/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0490be9edd34e374246a1a28e19d86c1cc24f7f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/e3abb6ed22c0e7e6a6e9ae4cc0fb03b020c6355f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ba3bfbd2cd4ee706356926c847c800afe07f6a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/573cf12cba8cbc3f3464aa56b0188a4a5d8a9697/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ec615a34af67340947a4e29a2df6c1ecbf7420a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/0a867cf490980fec1248036f3251af092bf52978/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12ce7c8a0beab78baede124eb92d5c41c2d95769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_7abbb0ff5d90189b9beb4c79c86b92113ce38150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sylvain/.android/build-cache/9efbb8b0140bc7f59449093702d562d47d3e1354/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Sylvain/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65f011f3095fed1003c2f7fe3a6af8efb9f66621/classes.dex" />
+    </item>
+
+</items>
